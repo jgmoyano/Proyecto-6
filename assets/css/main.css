@@ -1510,8 +1510,68 @@ body.is-preload #bg:before {
 
 }
 
-#stack{
-	width: 80%;
+#stack1,
+#stack2,
+#stack3,
+#stack4,
+#stack5,
+#stack6,
+#stack7,
+#stack8,
+#stack9,
+#stack10,
+#stack11,
+#stack12,
+#stack13,
+#stack14,
+#stack15{
+	width: 4%;
+}
+
+#stack1:hover{
+	content: url(/images/stack/l01.png);
+}
+#stack2:hover{
+	content: url(/images/stack/l02.png);
+}
+#stack3:hover{
+	content: url(/images/stack/l03.png);
+}
+#stack4:hover{
+	content: url(/images/stack/l04.png);
+}
+#stack5:hover{
+	content: url(/images/stack/l05.png);
+}
+#stack6:hover{
+	content: url(/images/stack/l06.png);
+}
+#stack7:hover{
+	content: url(/images/stack/l07.png);
+}
+#stack8:hover{
+	content: url(/images/stack/l08.png);
+}
+#stack9:hover{
+	content: url(/images/stack/l09.png);
+}
+#stack10:hover{
+	content: url(/images/stack/l10.png);
+}
+#stack11:hover{
+	content: url(/images/stack/l11.png);
+}
+#stack12:hover{
+	content: url(/images/stack/l12.png);
+}
+#stack13:hover{
+	content: url(/images/stack/l13.png);
+}
+#stack14:hover{
+	content: url(/images/stack/l14.png);
+}
+#stack15:hover{
+	content: url(/images/stack/l15.png);
 }
 
 #header .content {
